@@ -45,7 +45,7 @@ Stated up front rather than discovered later:
 
 - macOS only. There is no build for any other operating system and none is planned.
 - Tempo Delay is Apple Silicon only. Mastering Suite is a universal binary.
-- AAX is not signed yet, so neither plug-in loads in a standard Pro Tools installation. The build passes Avid's validator and runs in the Pro Tools developer build; the remaining work is a signing chain, not code.
+- AAX is not signed yet, so neither plug-in loads in a standard Pro Tools installation. Both have AAX builds, and Avid's validator passes every functional test on both; the one test that fails is the control-surface page table, which neither build ships. What is left is a PACE signing chain that is under review, and that page table, which is code rather than paperwork.
 
 ## Response
 
