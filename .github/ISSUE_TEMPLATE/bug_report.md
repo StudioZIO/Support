@@ -8,7 +8,7 @@ Fill in what you can. The first five lines are what make a report actionable on 
 
 **Plug-in:** Mastering Suite / Tempo Delay
 
-**Plug-in version:** (shown in the plug-in's own status bar, e.g. 2.1.1)
+**Plug-in version:** (shown in the plug-in's own status bar, e.g. 2.1.x)
 
 **Format:** AU / VST3 / Standalone
 
