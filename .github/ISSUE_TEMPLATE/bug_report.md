@@ -24,6 +24,8 @@ What you did, and what happened instead of what you expected. The smallest seque
 
 Optional. If it crashed, the macOS crash report from Console.app is the fastest route to a fix.
 
+Before posting logs, screenshots, or crash reports, please review them for sensitive information such as personal usernames, local file paths, confidential project names, or client data.
+
 ---
 
 Only if the plug-in does not appear in your host — delete this section otherwise:

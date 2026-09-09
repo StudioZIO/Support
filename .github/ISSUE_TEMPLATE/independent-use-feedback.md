@@ -2,7 +2,7 @@
 name: Independent use feedback
 about: Share a neutral first-use or real-project report about a StudioZIO plug-in
 title: ""
-labels: "independent-feedback"
+labels: ""
 assignees: ""
 ---
 
