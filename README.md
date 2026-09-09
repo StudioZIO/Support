@@ -39,6 +39,10 @@ If those three do not explain it, please open an issue — that is a real bug in
 
 Welcome, in the same place. It helps to say what you were trying to do rather than which control you want added; the underlying problem is often solvable in a way the request did not anticipate.
 
+## Independent use feedback
+
+If you have used a plug-in in a first session or a real project, the [independent use feedback template](https://github.com/StudioZIO/Support/issues/new?template=independent-use-feedback.md) is the right place for a neutral report. Favourable coverage is not requested or required; mixed and negative findings are useful too. Any permission to quote or link a report is optional.
+
 ## Known limits
 
 Stated up front rather than discovered later:
