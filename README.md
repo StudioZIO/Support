@@ -51,6 +51,24 @@ Stated up front rather than discovered later:
 - Tempo Delay is Apple Silicon only. Mastering Suite is a universal binary.
 - AAX is not signed yet, so neither plug-in loads in a standard Pro Tools installation. Both have AAX builds, and Avid's validator passes every functional test on both; the one test that fails is the control-surface page table, which neither build ships. What is left is a PACE signing chain that is under review, and that page table, which is code rather than paperwork.
 
+## How issues are handled
+
+### Questions
+
+Questions are answered or clarified, then normally closed once resolved.
+
+### Feature requests
+
+Requests are reviewed for the underlying workflow and product fit. They may remain open temporarily while being considered, but they are not maintained as an indefinite public backlog and do not imply implementation, priority, or delivery dates.
+
+### Bug reports
+
+Reports are investigated and reproduced where possible. A confirmed report does not automatically become a public Known Issues entry. Meaningful defects affecting a current release may be added manually to the StudioZIO Community Known Issues page.
+
+### Independent use feedback
+
+Credible compatibility reports may be reflected manually as `Community Reported`. This does not mean StudioZIO has independently verified the host or system combination. `StudioZIO Verified` is reserved for internal testing.
+
 ## Response
 
 One person maintains these. Reports get read. Crashes and anything that produces wrong audio come first; cosmetic issues are fixed when the next release is being prepared either way.
