@@ -10,11 +10,11 @@ Fill in what you can. The first five lines are what make a report actionable on 
 
 **Plug-in version:** (shown in the plug-in's own status bar, e.g. 2.1.x)
 
-**Format:** AU / VST3 / Standalone
+**Format:** AU / VST3 / AAX / Standalone
 
-**Host and version:** (e.g. Logic Pro 11.2, Reaper 7.29, Live 12.1)
+**Host and version:** (e.g. Logic Pro 11.2, Reaper 7.29, Live 12.1, Pro Tools 2026.x)
 
-**macOS version and Mac model:** (e.g. macOS 15.4 on an M2 Pro — Apple Silicon or Intel matters, Tempo Delay has no Intel build)
+**macOS version and Mac model:** (e.g. macOS 15.4 on an M2 Pro — Both plug-ins are Apple Silicon only)
 
 ### What happened
 

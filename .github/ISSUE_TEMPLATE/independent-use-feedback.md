@@ -12,7 +12,7 @@ This is for an independent use report, not a request for favourable coverage. Cr
 
 - Plug-in:
 - Version:
-- Format (AU, VST3 or Standalone):
+- Format (AU, VST3, AAX or Standalone):
 - macOS version and Mac model:
 - Host DAW and version:
 
