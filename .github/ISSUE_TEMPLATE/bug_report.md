@@ -14,7 +14,7 @@ Fill in what you can. The first five lines are what make a report actionable on 
 
 **Host and version:** (e.g. Logic Pro 11.2, Reaper 7.29, Live 12.1, Pro Tools 2026.x)
 
-**macOS version and Mac model:** (e.g. macOS 15.4 on an M2 Pro — Both plug-ins are Apple Silicon only)
+**macOS version and Mac model:** (e.g. macOS 15.4 on an M2 Pro — Mastering Suite is Universal, Tempo Delay is Apple Silicon only)
 
 ### What happened
 

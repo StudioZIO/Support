@@ -8,7 +8,7 @@ There is no support ticket system, no account and no queue position. This is the
 
 | Plug-in | Version | System | Site |
 | --- | --- | --- | --- |
-| StudioZIO Mastering Suite | 2.1.1 | macOS 11+, Apple Silicon only | https://studioziomasteringsuite.vercel.app |
+| StudioZIO Mastering Suite | 2.1.1 | macOS 11+, Universal (Apple Silicon + Intel) | https://studioziomasteringsuite.vercel.app |
 | StudioZIO Tempo Delay | 4.0.1 | macOS 12+, Apple Silicon only | https://www.tempodelay.tech |
 
 Downloads and checksums: https://github.com/StudioZIO/StudioZIO-Releases
@@ -19,7 +19,7 @@ Open an issue. What makes a report useful, roughly in order:
 
 1. **Which plug-in and version.** The version is in the plug-in's own status bar.
 2. **Host and version.** Logic 11.2, Reaper 7.x, Live 12.1, and so on.
-3. **macOS version and Mac model.** Both plug-ins are Apple Silicon only.
+3. **macOS version and Mac model.** Tempo Delay is Apple Silicon only.
 4. **Plug-in format.** AU, VST3, AAX or Standalone. Several problems only appear in one of them.
 5. **What you did, and what happened instead.** The smallest sequence that reproduces it is worth more than a long description.
 
@@ -31,7 +31,7 @@ Most first-run problems on macOS are the same three things:
 
 - **Run `auval` for AU.** In Terminal: `auval -a | grep -i studiozio`. If the plug-in is not listed, the host is not the problem.
 - **Clear the AU cache.** `killall -9 AudioComponentRegistrar`, then relaunch the host. A stale entry from an earlier version can persist.
-- **Check the architecture.** Both plug-ins are Apple Silicon only. On an Intel Mac they will not appear, and there is no error message anywhere saying so.
+- **Check the architecture.** Tempo Delay is Apple Silicon only. On an Intel Mac it will not appear, and there is no error message anywhere saying so.
 
 If those three do not explain it, please open an issue — that is a real bug in the installer and worth knowing about.
 
@@ -48,7 +48,7 @@ If you have used a plug-in in a first session or a real project, the [independen
 Stated up front rather than discovered later:
 
 - macOS only. There is no build for any other operating system and none is planned.
-- Both plug-ins are Apple Silicon only.
+- Tempo Delay is Apple Silicon only.
 
 ## How issues are handled
 
